@@ -1,25 +1,42 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #121212;
-  color: #f1f1f1;
+  background: linear-gradient(135deg, #141e30, #243b55);
+  color: #fff;
   text-align: center;
-  padding: 50px;
+  padding: 30px;
+}
+
+header {
+  margin-bottom: 20px;
 }
 
 h1 {
   color: #ff4081;
 }
 
+.projetos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projetos li {
+  background: rgba(255, 255, 255, 0.1);
+  margin: 8px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 button {
-  padding: 10px 20px;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #6200ea;
   border: none;
-  background-color: #6200ea;
-  color: white;
-  font-size: 16px;
   border-radius: 8px;
+  color: #fff;
+  font-size: 16px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #3700b3;
+  background: #3700b3;
 }
