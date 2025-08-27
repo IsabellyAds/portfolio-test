@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-  alert("Funcionou! 🚀 Seu repositório já tem JavaScript, HTML e CSS!");
+  alert("Oi, eu sou a Isabelly! 🚀 Obrigada por visitar meu portfólio.");
 }
